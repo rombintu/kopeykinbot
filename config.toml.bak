@@ -1,0 +1,7 @@
+[DEFAULT]
+Token = ""
+DebugLevel = "debug"
+
+[API]
+Debug = true
+TimeoutUpdate = 60
